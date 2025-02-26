@@ -109,4 +109,4 @@ export default function Register() {
             </motion.div>
         </GuestLayout>
     );
-}
+} 
